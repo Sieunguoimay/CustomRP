@@ -1,0 +1,16 @@
+{
+	"name": "com.sieunguoimay.customrp",
+	"version": "1.0.0",
+	"displayName": "Custom RP",
+	"description": "",
+	"unity": "2020.1",
+	"unityRelease": "0b5",
+	"dependencies": {
+	},
+	"keywords":[],
+	"author":{
+		"name":"Sieunguoimay",
+		"email":"vuduydu1997@gmail.com",
+		"url":""
+	}
+}

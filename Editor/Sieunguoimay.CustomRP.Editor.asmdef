@@ -1,0 +1,7 @@
+{
+	"name": "Sieunguoimay.CustomRP.Editor",
+	"references": ["Sieunguoimay.CustomRP"],
+	"includePlatforms":[
+		"Editor"
+	]
+}
